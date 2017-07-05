@@ -1,0 +1,7 @@
+myplane.js     // class继承
+
+Bullet.js   //    let  const 箭头函数  
+
+************
+test1.css为压缩后文件
+js已全部压缩
